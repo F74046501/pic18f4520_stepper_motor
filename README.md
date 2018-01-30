@@ -6,7 +6,7 @@ combine the pic18f4520 with the ULN2003A and the motor
 the digram is like below:
 ![image](https://github.com/F74046501/pic18f4520_stepper_motor/blob/master/diagram.png)
 
-more info I have search for, there are more pics to see:
+more info I have search for, there are more picturss to see:
 https://dolphinlabs.net/Word-SubMenu-Display.php?id=47%20
 
 
